@@ -1,0 +1,25 @@
+shipName: Millennium Falcon
+registrationNumber: YT 492727ZED
+manufacturer: Corellian Engineering Corporation
+designation: light freighter
+shipModel: YT-1300
+commissioned: 56 BBY
+faction: Rebel Alliance
+images:
+  frontView: /ship-images/millennium-falcon/front-view.webp
+stats:
+  lifeSupport: Yes
+  length: 34.75
+  height: 7.8
+  width: 25.61
+  hyperdrive: Class 1
+  crew:
+    minimum: 1
+    maximum: 6
+  speed:
+    atmospheric: 1200
+legoSets:
+  - name: Millennium Falcon Large Set
+    link: https://www.lego.com/en-ca/product/millennium-falcon-75192
+  - name: Millennium Falcon Mini Set
+    link: https://www.lego.com/en-ca/product/millennium-falcon-75257

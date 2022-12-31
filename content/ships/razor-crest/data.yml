@@ -1,0 +1,18 @@
+shipName: The Razor Crest
+manufacturer: unknown
+designation: military gunship
+commissioned: 19 BBY
+shipModel: ST-70 class Razor Crest M-111
+faction: N/A
+stats:
+  lifeSupport: Yes
+  length: 24.38
+  width: 16.46
+  height: 8.53
+  hyperdrive: Yes
+  crew:
+    minimum: 1
+    maximum: 6
+legoSets:
+  - name: The Razor Crest Large Set
+    link: https://www.lego.com/en-ca/product/the-razor-crest-75331

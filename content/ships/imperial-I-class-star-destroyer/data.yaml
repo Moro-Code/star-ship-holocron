@@ -1,0 +1,19 @@
+shipName: Imperial I Class Star Destroyer
+manufacturer: Kuat Drive Yards
+designation: military command ship
+commissioned: 18 BBY
+shipModel: Imperial I Class Star Destroyer
+faction: Galactic Empire
+stats:
+  lifeSupport: Yes
+  length: 1600
+  width: 900
+  hyperdrive: Class 2
+  crew:
+    minimum: 200
+    maximum: 40000
+  speed:
+    atmospheric: 975
+legoSets:
+  - name: Imperial Star Destroyer Large Set
+    link: https://www.lego.com/en-ca/product/imperial-star-destroyer-75252
